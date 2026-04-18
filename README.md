@@ -5,7 +5,7 @@ A modern, full-stack web application designed to drive charitable impact through
 Built as a submission for the Digital Heroes Full-Stack Developer challenge.
 
 ## 🚀 Live Demo & Credentials
-* **Live Site:** [Insert your Vercel Link Here]
+* **Live Site:** https://digital-heroes-platform.vercel.app/
 * **Test User Account:** `123@gmail.com` / `password123` *(Has 5 scores & verified wins)*
 * **Admin Access:** Navigate to `/admin` to view the master dashboard.
 
